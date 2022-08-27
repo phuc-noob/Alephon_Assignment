@@ -1,0 +1,7 @@
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\bin\Debug\PhanVinhPhuc_Alephon_Assignment.exe.config
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\bin\Debug\PhanVinhPhuc_Alephon_Assignment.exe
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\bin\Debug\PhanVinhPhuc_Alephon_Assignment.pdb
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\obj\Debug\PhanVinhPhuc_Alephon_Assignment.csprojAssemblyReference.cache
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\obj\Debug\PhanVinhPhuc_Alephon_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\obj\Debug\PhanVinhPhuc_Alephon_Assignment.exe
+C:\Users\84826\source\repos\PhanVinhPhuc_Alephon_Assignment\PhanVinhPhuc_Alephon_Assignment\obj\Debug\PhanVinhPhuc_Alephon_Assignment.pdb
