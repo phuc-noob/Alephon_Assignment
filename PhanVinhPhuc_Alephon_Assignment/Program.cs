@@ -126,7 +126,7 @@ namespace PhanVinhPhuc_Alephon_Assignment
             //read until you reach end of file
             while (line != null)
             {
-               Console.Write(Convert.ToDouble(line) + 1 + " ");
+               Console.Write(Convert.ToDouble(line) + " ");
                //Read the next line
                line = sr.ReadLine();
             }
